@@ -5,6 +5,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UilsonBrandelero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 
 # About Me 🔍
+<p>Desenvolvedor Java Backend Júnior em formação, com conhecimentos em Java, Spring Framework, APIs RESTful, bancos de dados relacionais (PostgreSQL)</p>
 ## Skils
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
